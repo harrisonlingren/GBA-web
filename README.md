@@ -1,10 +1,12 @@
-GBA.js
-======
-**Version 1.1-git — Copyright © 2012 – 2013 Jeffrey Pfau**
+# gba-web
 
-GBA.js is a Game Boy Advance emulator written from scratch to employ HTML5 technologies like Canvas and Web Audio. It uses no plugins, and is designed to run on cutting edge web browsers. It is hosted [on GitHub](https://github.com/endrift/gbajs) and is made available under the 2-clause BSD license. The most recent version can be found at [http://endrift.github.io/gbajs/](http://endrift.github.io/gbajs/).
+Based off of [GBA.js](https://github.com/endrift/gbajs) by [Jeffrey Pfau](http://github.com/endrift), and using this amazing [CSS Gameboy Advance SP design](https://codepen.io/joshuajcollinsworth/pen/LVMRwQ) by [Joshua Collinsworth](https://codepen.io/joshuajcollinsworth) on CodePen.
 
-## Browser Compatibility
+---
+
+## Play Gameboy Advance games in your browser!
+
+### Browser Compatibility
 The current version of GBA.js is known to work in the following web browsers:
 
 * Safari 6.0 or newer
@@ -74,3 +76,13 @@ INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
+
+
+
+
+
+GBA.js
+======
+**Version 1.1-git — Copyright © 2012 – 2013 Jeffrey Pfau**
+
+GBA.js is a Game Boy Advance emulator written from scratch to employ HTML5 technologies like Canvas and Web Audio. It uses no plugins, and is designed to run on cutting edge web browsers. It is hosted [on GitHub](https://github.com/endrift/gbajs) and is made available under the 2-clause BSD license. The most recent version can be found at [http://endrift.github.io/gbajs/](http://endrift.github.io/gbajs/).
